@@ -1,0 +1,28 @@
+# Python environment and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary local output
+*.log
+*.tmp
+output/_scratch/

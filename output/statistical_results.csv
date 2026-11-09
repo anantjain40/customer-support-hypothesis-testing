@@ -1,0 +1,170 @@
+section,metric,segment,value,unit,definition
+overall_kpi,tickets,Before,2050.0,tickets,All support tickets
+overall_kpi,agents,Before,45.0,agents,Distinct active agents
+overall_kpi,mean_response,Before,15.05745366,minutes,Ticket-weighted first-response mean
+overall_kpi,median_response,Before,12.65,minutes,Ticket-level first-response median
+overall_kpi,mean_resolution,Before,124.84945366,minutes,Ticket-weighted resolution mean
+overall_kpi,median_resolution,Before,105.055,minutes,Ticket-level resolution median
+overall_kpi,sla_met_tickets,Before,1538.0,tickets,Tickets meeting priority-specific response SLA
+overall_kpi,sla_pct,Before,75.02439024,%,SLA-met tickets / all tickets x100
+overall_kpi,csat_responses,Before,1606.0,tickets,Tickets with recorded CSAT
+overall_kpi,csat_response_pct,Before,78.34146341,%,Rated tickets / all tickets x100
+overall_kpi,mean_csat,Before,3.96575342,rating/5,Mean among rated tickets
+overall_kpi,satisfied_ratings,Before,1129.0,tickets,Rated CSAT 4 or 5
+overall_kpi,satisfied_pct,Before,70.2988792,%,CSAT 4/5 responses / all CSAT responses x100
+overall_kpi,high_priority_pct,Before,21.70731707,%,High-priority tickets / all tickets x100
+overall_kpi,complex_pct,Before,20.87804878,%,Complex tickets / all tickets x100
+overall_kpi,tickets,After,2100.0,tickets,All support tickets
+overall_kpi,agents,After,45.0,agents,Distinct active agents
+overall_kpi,mean_response,After,14.21916667,minutes,Ticket-weighted first-response mean
+overall_kpi,median_response,After,11.945,minutes,Ticket-level first-response median
+overall_kpi,mean_resolution,After,129.05127619,minutes,Ticket-weighted resolution mean
+overall_kpi,median_resolution,After,109.61,minutes,Ticket-level resolution median
+overall_kpi,sla_met_tickets,After,1599.0,tickets,Tickets meeting priority-specific response SLA
+overall_kpi,sla_pct,After,76.14285714,%,SLA-met tickets / all tickets x100
+overall_kpi,csat_responses,After,1611.0,tickets,Tickets with recorded CSAT
+overall_kpi,csat_response_pct,After,76.71428571,%,Rated tickets / all tickets x100
+overall_kpi,mean_csat,After,4.03724395,rating/5,Mean among rated tickets
+overall_kpi,satisfied_ratings,After,1215.0,tickets,Rated CSAT 4 or 5
+overall_kpi,satisfied_pct,After,75.41899441,%,CSAT 4/5 responses / all CSAT responses x100
+overall_kpi,high_priority_pct,After,28.04761905,%,High-priority tickets / all tickets x100
+overall_kpi,complex_pct,After,27.76190476,%,Complex tickets / all tickets x100
+team_kpi,tickets,Billing | After,740.0,tickets,Ticket count
+team_kpi,mean_response,Billing | After,13.09087838,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,Billing | After,122.12731081,minutes,Ticket-weighted mean
+team_kpi,sla_pct,Billing | After,80.94594595,%,SLA-met / all tickets x100
+team_kpi,mean_csat,Billing | After,4.11188811,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,Billing | After,77.2972973,%,Rated / all tickets x100
+team_kpi,satisfied_pct,Billing | After,78.14685315,%,CSAT 4/5 / rated tickets x100
+team_kpi,tickets,Billing | Before,665.0,tickets,Ticket count
+team_kpi,mean_response,Billing | Before,14.82968421,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,Billing | Before,117.28148872,minutes,Ticket-weighted mean
+team_kpi,sla_pct,Billing | Before,75.03759398,%,SLA-met / all tickets x100
+team_kpi,mean_csat,Billing | Before,3.99034749,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,Billing | Before,77.89473684,%,Rated / all tickets x100
+team_kpi,satisfied_pct,Billing | Before,71.23552124,%,CSAT 4/5 / rated tickets x100
+team_kpi,tickets,General | After,676.0,tickets,Ticket count
+team_kpi,mean_response,General | After,11.81547337,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,General | After,97.67596154,minutes,Ticket-weighted mean
+team_kpi,sla_pct,General | After,82.3964497,%,SLA-met / all tickets x100
+team_kpi,mean_csat,General | After,4.05882353,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,General | After,75.44378698,%,Rated / all tickets x100
+team_kpi,satisfied_pct,General | After,75.68627451,%,CSAT 4/5 / rated tickets x100
+team_kpi,tickets,General | Before,665.0,tickets,Ticket count
+team_kpi,mean_response,General | Before,12.57437594,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,General | Before,96.36505263,minutes,Ticket-weighted mean
+team_kpi,sla_pct,General | Before,85.41353383,%,SLA-met / all tickets x100
+team_kpi,mean_csat,General | Before,4.01340996,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,General | Before,78.4962406,%,Rated / all tickets x100
+team_kpi,satisfied_pct,General | Before,73.94636015,%,CSAT 4/5 / rated tickets x100
+team_kpi,tickets,Technical | After,684.0,tickets,Ticket count
+team_kpi,mean_response,Technical | After,17.81540936,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,Technical | After,167.55046784,minutes,Ticket-weighted mean
+team_kpi,sla_pct,Technical | After,64.76608187,%,SLA-met / all tickets x100
+team_kpi,mean_csat,Technical | After,3.93572779,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,Technical | After,77.33918129,%,Rated / all tickets x100
+team_kpi,satisfied_pct,Technical | After,72.21172023,%,CSAT 4/5 / rated tickets x100
+team_kpi,tickets,Technical | Before,720.0,tickets,Ticket count
+team_kpi,mean_response,Technical | Before,17.56122222,minutes,Ticket-weighted mean
+team_kpi,mean_resolution,Technical | Before,158.14781944,minutes,Ticket-weighted mean
+team_kpi,sla_pct,Technical | Before,65.41666667,%,SLA-met / all tickets x100
+team_kpi,mean_csat,Technical | Before,3.89929329,rating/5,Mean rated CSAT
+team_kpi,csat_response_pct,Technical | Before,78.61111111,%,Rated / all tickets x100
+team_kpi,satisfied_pct,Technical | Before,66.07773852,%,CSAT 4/5 / rated tickets x100
+ticket_priority_kpi,tickets,After | High,589.0,tickets,
+ticket_priority_kpi,mean_response,After | High,11.06534805,minutes,
+ticket_priority_kpi,mean_resolution,After | High,124.60870968,minutes,
+ticket_priority_kpi,sla_pct,After | High,55.34804754,%,
+ticket_priority_kpi,tickets,After | Low,541.0,tickets,
+ticket_priority_kpi,mean_response,After | Low,17.48874307,minutes,
+ticket_priority_kpi,mean_resolution,After | Low,135.14774492,minutes,
+ticket_priority_kpi,sla_pct,After | Low,88.7245841,%,
+ticket_priority_kpi,tickets,After | Medium,970.0,tickets,
+ticket_priority_kpi,mean_response,After | Medium,14.3106701,minutes,
+ticket_priority_kpi,mean_resolution,After | Medium,128.34868041,minutes,
+ticket_priority_kpi,sla_pct,After | Medium,81.75257732,%,
+ticket_priority_kpi,tickets,Before | High,445.0,tickets,
+ticket_priority_kpi,mean_response,Before | High,11.11267416,minutes,
+ticket_priority_kpi,mean_resolution,Before | High,122.72168539,minutes,
+ticket_priority_kpi,sla_pct,Before | High,51.01123596,%,
+ticket_priority_kpi,tickets,Before | Low,610.0,tickets,
+ticket_priority_kpi,mean_response,Before | Low,18.52093443,minutes,
+ticket_priority_kpi,mean_resolution,Before | Low,130.12337705,minutes,
+ticket_priority_kpi,sla_pct,Before | Low,88.52459016,%,
+ticket_priority_kpi,tickets,Before | Medium,995.0,tickets,
+ticket_priority_kpi,mean_response,Before | Medium,14.69836181,minutes,
+ticket_priority_kpi,mean_resolution,Before | Medium,122.56780905,minutes,
+ticket_priority_kpi,sla_pct,Before | Medium,77.48743719,%,
+ticket_complexity_kpi,tickets,After | Complex,583.0,tickets,
+ticket_complexity_kpi,mean_response,After | Complex,18.77722127,minutes,
+ticket_complexity_kpi,mean_resolution,After | Complex,165.56672384,minutes,
+ticket_complexity_kpi,sla_pct,After | Complex,59.17667238,%,
+ticket_complexity_kpi,tickets,After | Moderate,866.0,tickets,
+ticket_complexity_kpi,mean_response,After | Moderate,13.72790993,minutes,
+ticket_complexity_kpi,mean_resolution,After | Moderate,125.71181293,minutes,
+ticket_complexity_kpi,sla_pct,After | Moderate,78.98383372,%,
+ticket_complexity_kpi,tickets,After | Simple,651.0,tickets,
+ticket_complexity_kpi,mean_response,After | Simple,10.79072197,minutes,
+ticket_complexity_kpi,mean_resolution,After | Simple,100.79239631,minutes,
+ticket_complexity_kpi,sla_pct,After | Simple,87.55760369,%,
+ticket_complexity_kpi,tickets,Before | Complex,428.0,tickets,
+ticket_complexity_kpi,mean_response,Before | Complex,19.99257009,minutes,
+ticket_complexity_kpi,mean_resolution,Before | Complex,166.21595794,minutes,
+ticket_complexity_kpi,sla_pct,Before | Complex,53.27102804,%,
+ticket_complexity_kpi,tickets,Before | Moderate,924.0,tickets,
+ticket_complexity_kpi,mean_response,Before | Moderate,14.76411255,minutes,
+ticket_complexity_kpi,mean_resolution,Before | Moderate,123.96374459,minutes,
+ticket_complexity_kpi,sla_pct,Before | Moderate,76.40692641,%,
+ticket_complexity_kpi,tickets,Before | Simple,698.0,tickets,
+ticket_complexity_kpi,mean_response,Before | Simple,12.41965616,minutes,
+ticket_complexity_kpi,mean_resolution,Before | Simple,100.65680516,minutes,
+ticket_complexity_kpi,sla_pct,Before | Simple,86.53295129,%,
+paired_t_test,matched_agents,all_45_agents,45.0,agents,
+paired_t_test,agent_mean_before,all_45_agents,15.0147006,minutes,
+paired_t_test,agent_mean_after,all_45_agents,14.19608456,minutes,
+paired_t_test,mean_improvement,all_45_agents,0.81861604,minutes,
+paired_t_test,median_improvement,all_45_agents,0.70981481,minutes,
+paired_t_test,sd_improvement,all_45_agents,2.92770841,minutes,
+paired_t_test,se_improvement,all_45_agents,0.436437,minutes,
+paired_t_test,t_statistic,all_45_agents,1.87567974,t,
+paired_t_test,degrees_of_freedom,all_45_agents,44.0,df,
+paired_t_test,p_value_two_sided,all_45_agents,0.06734391,p,
+paired_t_test,ci95_lower,all_45_agents,-0.06096494,minutes,
+paired_t_test,ci95_upper,all_45_agents,1.69819702,minutes,
+paired_t_test,cohens_dz,all_45_agents,0.27960983,standardized,
+paired_t_test,shapiro_w,all_45_agents,0.92361063,W,
+paired_t_test,shapiro_p,all_45_agents,0.00561544,p,
+paired_t_test,agents_improved,all_45_agents,27.0,agents,
+paired_t_test,agents_deteriorated,all_45_agents,18.0,agents,
+team_agent_improvement,agents,Billing,15.0,agents,
+team_agent_improvement,mean_improvement,Billing,1.86064592,minutes,
+team_agent_improvement,shapiro_p,Billing,0.69815143,p,
+team_agent_improvement,agents,General,15.0,agents,
+team_agent_improvement,mean_improvement,General,0.73478146,minutes,
+team_agent_improvement,shapiro_p,General,0.60188497,p,
+team_agent_improvement,agents,Technical,15.0,agents,
+team_agent_improvement,mean_improvement,Technical,-0.13957926,minutes,
+team_agent_improvement,shapiro_p,Technical,0.01395738,p,
+anova,ss_between,all_45_agents,30.16489131,min^2,
+anova,ss_within,all_45_agents,346.98007621,min^2,
+anova,ms_between,all_45_agents,15.08244565,min^2,
+anova,ms_within,all_45_agents,8.26143039,min^2,
+anova,df_between,all_45_agents,2.0,df,
+anova,df_within,all_45_agents,42.0,df,
+anova,classical_f,all_45_agents,1.8256458,F,
+anova,classical_p,all_45_agents,0.17366834,p,
+anova,welch_f,all_45_agents,1.70339654,F,
+anova,welch_p,all_45_agents,0.20089413,p,
+anova,eta_squared,all_45_agents,0.07998222,proportion,
+anova,levene_p,all_45_agents,0.86814912,p,
+sensitivity_paired,agents,exclude_AGT028_exploratory,44.0,agents,
+sensitivity_paired,mean_improvement,exclude_AGT028_exploratory,1.06999945,minutes,
+sensitivity_paired,t_statistic,exclude_AGT028_exploratory,2.93173851,t,
+sensitivity_paired,p_value_two_sided,exclude_AGT028_exploratory,0.00538155,p,
+sensitivity_paired,ci95_lower,exclude_AGT028_exploratory,0.33396534,minutes,
+sensitivity_paired,ci95_upper,exclude_AGT028_exploratory,1.80603355,minutes,
+sensitivity_anova,classical_f,exclude_AGT028_exploratory,1.24193168,F,
+sensitivity_anova,classical_p,exclude_AGT028_exploratory,0.29946257,p,
+sensitivity_anova,welch_f,exclude_AGT028_exploratory,1.18079157,F,
+sensitivity_anova,welch_p,exclude_AGT028_exploratory,0.32227087,p,
+sensitivity_anova,technical_mean_improvement,exclude_AGT028_exploratory,0.58204035,minutes,
